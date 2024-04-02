@@ -5,7 +5,7 @@ Hi👋 I'm a Data scientist and former titled as bioinformatics programmer. I am
 </br>
 
 <h2>💻<b> Tools</b>: </h2>
-Python | SQL | SAS | R | Java | HTML | Flask | Jupyter Notebooks | Jupyter Lab | Tableau | AWS EC2 <br>
+Python | SQL | SAS | R | Java | HTML | Flask | Jupyter Notebooks | Jupyter Lab | Streamlit | Tableau | AWS EC2 <br>
 </br>
 
 <h2>👨‍💻 Recent Data Science Projects:</h2>
