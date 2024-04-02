@@ -1,7 +1,7 @@
 <h1>Hi, I'm Yilan! <br/><a> Data Scientist</a>, <a>Programmer</a> </h1>
 
 <h2> Greetings </h2>
-Hi👋 I'm a Data scientist and former titled as bioinformatics programmer. I am passionate about <i>driving positive change that benefits communities and individuals</i>. I have over 7️⃣ years of experience providing statistical inference and predictive data analysis. I am recently pivoting my skills into data science.<br>
+Hi👋 I'm a Data scientist and former titled as bioinformatics programmer. I am passionate about <i>driving positive change that benefits communities and individuals</i>. I have over 7️⃣ years of experience providing statistical inference and predictive data analysis. I am recently pivoting my skills into data science field.<br>
 </br>
 
 <h2>💻<b> Tools</b>: </h2>
