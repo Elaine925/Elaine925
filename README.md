@@ -8,7 +8,7 @@ Hi👋 I'm a Data scientist and former titled as bioinformatics programmer. I am
 Python | SQL | SAS | R | Java | HTML | Flask | Jupyter Notebooks | Jupyter Lab | Streamlit | Tableau | AWS EC2 <br>
 </br>
 
-<h2>👨‍💻 Recent Data Science Projects:</h2>
+<h2> 👩🏻‍💻Recent Data Science Projects:</h2>
 
 - <b>Images Classification</b>
   - [Hotdog Or Not hogdog](https://github.com/Elaine925/Hackathon-HotDog-NotHotDog)
