@@ -11,7 +11,7 @@ Python | SQL | SAS | R | Java | HTML | Flask | Jupyter Notebooks | Jupyter Lab |
 <h2>👨‍💻 Recent Data Science Projects:</h2>
 
 - <b>Images Classification</b>
-  - [Hotdog|Not hogdog](https://github.com/Elaine925/Hackathon-HotDog-NotHotDog)
+  - [Hotdog Or Not hogdog](https://github.com/Elaine925/Hackathon-HotDog-NotHotDog)
 - <b>Team project</b>
   - [Spotify Popularity Prediction](https://github.com/dillondiatlo/Team2) 
 - <b>NLP project</b>
